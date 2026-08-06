@@ -2,5 +2,5 @@
 
 
 
-Objetivo do projeto: Sistema para gerenciamento de bibliotecas.
+Sistema para Biblioteca Universitária.
 
