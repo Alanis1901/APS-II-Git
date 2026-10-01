@@ -1,4 +1,3 @@
 # APS-II-Git 
 
-
-Sistema para Biblioteca Municipal.
+Sistema para gerenciamento de bibliotecas.
